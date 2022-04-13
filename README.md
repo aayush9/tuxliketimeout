@@ -1,3 +1,5 @@
+Forked from `https://github.com/cernoch/tuxliketimeout`
+
 Linux-like `timeout` for Windows
 ================================
 
@@ -12,7 +14,7 @@ Usage
 
 Instead of `ping google.com`, simply run
 ```
-tuxliketimeout.exe 1500 ping google.com
+gtimeout.exe 1500 ping google.com
 ```
 
 Compilation
